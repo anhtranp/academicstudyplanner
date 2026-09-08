@@ -1,6 +1,6 @@
 # Academic Study Planner
 
-**Live Demo:** https://drive.google.com/file/d/1XN58TR6JD6dEMi3S71842Mk3QoBW5tjU/view?usp=sharing
+**Live Demo:** [https://drive.google.com/file/d/1XN58TR6JD6dEMi3S71842Mk3QoBW5tjU/view?usp=sharing](https://drive.google.com/file/d/1-9b2HrfMundPXeGOOHAhXIUEqU43y52s/view?usp=sharing)
 
 **Product Design:** [https://www.figma.com/make/FfDBMgL5wzrqna4Rx02vf6/Academic-Study-Planner?t=l5WEFV03OqtU73lL-1\\](https://www.figma.com/make/FfDBMgL5wzrqna4Rx02vf6/Academic-Study-Planner?t=l5WEFV03OqtU73lL-1\\)\
 **Built by:** Anh Tran
