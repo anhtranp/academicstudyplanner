@@ -173,7 +173,7 @@ Confetti falls down when task complete.
 
 ![Confetti fall down when task complete](screenshots/05-task-complete-confetti.png)
 
-* **Vanilla Ice Cream Confetti**: Sweet cones and cups (`🍦`) rain down across the screen whenever a study task is checked off.
+* **Vanilla Ice Cream Confetti**: Sweet cones and cups (`🍦`) rain down across the screen whenever a study task is checked off. Fun fact: this is my favorite dessert ever!
 * **Rewarding Feedback**: Toast celebration alert with instant progress increments to celebrate student achievements.
 
 
