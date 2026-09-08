@@ -6,7 +6,7 @@
 
 ---
 
-## The Problem
+# The Problem
 
 Students receive course syllabi containing deadlines, readings, assignments, exams, and weekly topics — but the syllabus itself doesn't tell them **how to organize their time**.
 
@@ -21,9 +21,7 @@ Most importantly, how should I plan out my WHOLE SEMESTER (because we love to pl
 
 So I've created the **Academic Study Planner**.
 
----
-
-### Core workflow
+## Core workflow
 
 ```text
 Upload Syllabus
