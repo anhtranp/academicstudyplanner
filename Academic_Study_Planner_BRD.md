@@ -195,11 +195,3 @@ This creates planning friction that discourages consistent studying and increase
 | **V1 (Current)** | Single-course upload, extraction, plan generation, tracking, Focus Mode, calendar integration |
 | **V2 (Planned)** | Multi-course planning, workload balancing, exam prep mode, assignment prioritization, missed-session re-planning, user accounts |
 | **V3 (Future)** | AI-powered syllabus understanding, personalized recommendations, adaptive scheduling, LMS integrations, mobile app |
-
----
-
-## 12. Guiding Product Question
-
-> How can technology reduce the cognitive effort required for students to turn a syllabus into an actionable plan?
-
-This question should be used as the north star when evaluating any new feature request against this BRD's scope.
