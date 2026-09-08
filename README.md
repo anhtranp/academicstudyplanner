@@ -23,10 +23,6 @@ So I've created the **Academic Study Planner**.
 
 ---
 
-## The Solution
-
-You just need to upload a syllabus, configure  study preferences, and receive a structured study plan.
-
 ### Core workflow
 
 ```text
