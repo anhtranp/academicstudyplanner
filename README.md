@@ -128,29 +128,60 @@ Students can add individual sessions to Google Calendar or sync the entire study
 
 ---
 
-# Product Screens
+## Product Screens
 
-## Syllabus Upload
-
+### Syllabus Upload
 Students upload their syllabus and preview the extracted course schedule before generating their plan.
 
+![Syllabus Upload](screenshots/01-syllabus-upload.png)
+
+* **Multi-format Support**: Upload PDF, DOCX, TXT, or Markdown documents with instant client-side schedule extraction.
+* **Custom Scheduling**: Select start dates, study days (e.g. Mon / Wed / Fri), and session duration.
+* **Live Schedule Preview**: Review extracted topics, assignments, and exams before generating the calendar.
+
 ---
 
-## Study Plan
-
+### Study Plan
 The generated schedule organizes course topics into manageable study sessions.
 
+![Study Plan](screenshots/02-study-plan.png)
+
+* **Interactive Week View**: Break down the entire term into structured, bite-sized weekly cards.
+* **Smart Distribution**: Automatically spaces out syllabus material across study days while avoiding exam conflicts.
+* **Direct Integration**: Export events directly to Google Calendar (`📅 Cal`) or launch focus mode (`🐾 Focus`).
+
 ---
 
-## Account / Progress
-
+### Account / Progress
 Students can monitor completion across individual days and the overall course.
 
+![Account / Progress](screenshots/03-account-progress.png)
+
+* **Completion Overview**: Real-time progress ring tracking total sessions, hours completed, and remaining workload.
+* **Weekly Goals**: Monitor week-by-week progress bars to stay on track.
+* **Study Streaks & Upcoming Deadlines**: Streak counters paired with reminders for upcoming quizzes and final exams.
+
 ---
 
-## Focus Mode
-
+### Focus Mode
 Moki accompanies students during focused study sessions.
+
+![Focus Mode](screenshots/04-focus-mode.png)
+
+* **Moki Study Companion**: Animated companion puppy with dynamic mood states, blinking animations, and motivating study quotes.
+* **Countdown Ring**: Full-screen and dockable picture-in-picture countdown timer with play/pause controls.
+* **Distraction-Free**: Highlights a single active topic to promote deep focus.
+
+---
+
+### Confetti Celebration (Task Complete)
+Confetti falls down when task complete.
+
+![Confetti fall down when task complete](screenshots/05-task-complete-confetti.png)
+
+* **Vanilla Ice Cream Confetti**: Sweet cones and cups (`🍦`) rain down across the screen whenever a study task is checked off.
+* **Rewarding Feedback**: Toast celebration alert with instant progress increments to celebrate student achievements.
+
 
 ---
 
